@@ -1,4 +1,4 @@
-                                                  BlackRock Hackathon Project 
+                                                BlackRock Hackathon Project 
 Overview  
 This project is a solution developed for the BlackRock 24-hour hackathon. The focus is on 
 Sustainability, one of the provided problem statements. The application includes features for 
