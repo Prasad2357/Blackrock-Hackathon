@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;&display=swap');
+@import './components/Navbar.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding-top: 4rem; /* Adjust this to the height of your navbar */
+  background: #0a0e00;
+}
+
+.form-container {
+  width: 1000px;
+  margin: auto;
+}
+
+.title,
+.slogan {
+  text-align: center;
+}
+
+.btn {
+  width: 100%;
+}
+
+.auth-image {
+  padding-left: 4.6rem;
+  width: 75%;
+}
+
+.alert {
+  margin-bottom: 1.5rem;
+}
+
+.profile-card {
+  width: 500px;
+  margin: auto;
+}
+
+.avatar {
+  margin-bottom: 1.5rem;
+}
+
+.username {
+  text-transform: capitalize;
+}
+
+.profile-btn {
+  margin-top: 1.3rem;
+  width: 100%;
+}
